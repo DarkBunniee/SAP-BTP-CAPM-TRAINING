@@ -79,5 +79,3 @@ For any questions or training support, reach out to:
 
 If you find this repo helpful, give it a ⭐️ to help others discover quality SAP BTP/CAPM resources!
 
----
-```
